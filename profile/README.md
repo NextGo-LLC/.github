@@ -58,6 +58,13 @@ Talking about Company Stuffs:
 - <img alt="E-Commerce Integration &amp; Customizations Solutions" srcset="https://nextgo.io/images/services-icons/ecommerce-integration-and-customizations-solutions.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/ecommerce-integration-and-customizations-solutions.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/ecommerce-integration-and-customizations-solutions.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Design UX/UI
 
 
+- <img alt="Machine Learning" srcset="https://nextgo.io/images/services-icons/machine-learning.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/machine-learning.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/machine-learning.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Machine Learning
+
+
+- <img alt="Minimun Viable Product (MVP)" srcset="https://nextgo.io/images/services-icons/mvp.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/mvp.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/mvp.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Minimun Viable Product (MVP)
+
+
+
 
 
 
