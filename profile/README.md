@@ -18,17 +18,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Talking about Company Stuffs:
 
-<div style = "background: white">
-<img alt="AWS DevOps Service" srcset="https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px; background: white">
-</div>
+- <img alt="AWS DevOps Service" srcset="https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;">  AWS DevOps Service
 
- - 👨‍💻 ![image](https://user-images.githubusercontent.com/9677961/178298036-c4545733-3fd8-4db2-bcaa-df52c630dcf3.png | width=100)AWS DevOps Service
+- <img alt="Google Cloud Platform DevOps Service" srcset="https://nextgo.io/images/services-icons/google-cloud-platform-devops-service.svg?auto=format&amp;fit=max&amp;w=128 1x, https://nextgo.io/images/services-icons/google-cloud-platform-devops-service.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/google-cloud-platform-devops-service.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Google Cloud Platform DevOps Service
 
-- 💻 On-Demand and Custom Software 
-
-- 👨‍ Agile Project Manager.
-
-- 👨‍💻 Staff Augmentation
+- <img alt="Azure DevOps Services" srcset="https://nextgo.io/images/services-icons/azure-devops-services.svg?auto=format&amp;fit=max&amp;w=128 1x, https://nextgo.io/images/services-icons/azure-devops-services.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/azure-devops-services.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Azure DevOps Services
 
 
 ## 🛠️ Services We Offer
