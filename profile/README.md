@@ -24,6 +24,23 @@ Talking about Company Stuffs:
 
 - <img alt="Azure DevOps Services" srcset="https://nextgo.io/images/services-icons/azure-devops-services.svg?auto=format&amp;fit=max&amp;w=128 1x, https://nextgo.io/images/services-icons/azure-devops-services.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/azure-devops-services.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Azure DevOps Services
 
+- <img alt="Kubernetes Consulting Services" srcset="https://nextgo.io/images/services-icons/kubernetes-consulting-services.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/kubernetes-consulting-services.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/kubernetes-consulting-services.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Kubernetes Consulting Services
+
+- <img alt="Infrastructure Automation Service" srcset="https://nextgo.io/images/services-icons/infrastructure-automation.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/infrastructure-automation.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/infrastructure-automation.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Infrastructure Automation Service
+
+- <img alt="Docker DevOps Service" srcset="https://nextgo.io/images/services-icons/docker-devops-service.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/docker-devops-service.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/docker-devops-service.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;">   Docker DevOps Service
+
+- <img alt="24/7 Monitoring, Control and Alert Management" srcset="https://nextgo.io/images/services-icons/monitoring-control-alert-management.svg?auto=format&amp;fit=max&amp;w=128 1x, https://nextgo.io/images/services-icons/monitoring-control-alert-management.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/monitoring-control-alert-management.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;">  24/7 Monitoring, Control and Alert Management
+
+- <img alt="Cloud Infrastructure Strategy &amp; Design" srcset="https://nextgo.io/images/services-icons/cloud-infrastructure-strategy-and-design2.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/cloud-infrastructure-strategy-and-design2.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/cloud-infrastructure-strategy-and-design2.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Cloud Infrastructure Strategy & Design
+
+- <img alt="Big Data Consulting Service" srcset="https://nextgo.io/images/services-icons/big-data-consulting-service.svg?auto=format&amp;fit=max&amp;w=640 1x, https://nextgo.io/images/services-icons/big-data-consulting-service.svg?auto=format&amp;fit=max&amp;w=1080 2x" src="https://nextgo.io/images/services-icons/big-data-consulting-service.svg?auto=format&amp;fit=max&amp;w=1080" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Big Data Consulting Service
+
+- <img alt="Continuous Integration &amp; Continuous Deployment" srcset="https://nextgo.io/images/services-icons/ci-cd.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/ci-cd.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/ci-cd.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Continuous Integration & Continuous Deployment
+
+
+
+
 
 ## 🛠️ Services We Offer
 
