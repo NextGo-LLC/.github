@@ -64,6 +64,9 @@ Talking about Company Stuffs:
 - <img alt="Minimun Viable Product (MVP)" srcset="https://nextgo.io/images/services-icons/mvp.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/mvp.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/mvp.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Minimun Viable Product (MVP)
 
 
+- <img alt="Agile Project Management" srcset="https://nextgo.io/images/services-icons/agile-project2.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/agile-project2.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/agile-project2.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Agile Project Management
+
+- <img alt="Staff Augmentation" srcset="https://nextgo.io/images/services-icons/staff-augmentation.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/staff-augmentation.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/staff-augmentation.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Staff Augmentation
 
 
 
@@ -71,8 +74,7 @@ Talking about Company Stuffs:
 
 
 
-
-## 🛠️ Services We Offer
+## 🛠️ Skills
 
 
 Backend as a Service (BaaS)
