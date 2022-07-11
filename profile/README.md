@@ -38,6 +38,29 @@ Talking about Company Stuffs:
 
 - <img alt="Continuous Integration &amp; Continuous Deployment" srcset="https://nextgo.io/images/services-icons/ci-cd.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/ci-cd.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/ci-cd.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Continuous Integration & Continuous Deployment
 
+- <img alt="Continuous Delivery Service" srcset="https://nextgo.io/images/services-icons/cd2.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/cd2.png?auto=format&amp;fit=max&amp;w=640 2x" src="https://nextgo.io/images/services-icons/cd2.png?auto=format&amp;fit=max&amp;w=640" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Continuous Delivery Service
+
+- <img alt="DevOpSec Application Security &amp; Network" srcset="https://nextgo.io/images/services-icons/devopsec-app-security-and-network2.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/devopsec-app-security-and-network2.png?auto=format&amp;fit=max&amp;w=640 2x" src="https://nextgo.io/images/services-icons/devopsec-app-security-and-network2.png?auto=format&amp;fit=max&amp;w=640" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> DevOpSec Application Security & Network
+
+- <img alt="Quality Assurance (QA)" srcset="https://nextgo.io/images/services-icons/quality-assurance.svg?auto=format&amp;fit=max&amp;w=96 1x, https://nextgo.io/images/services-icons/quality-assurance.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/quality-assurance.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Quality Assurance (QA)
+
+- <img alt="Databases" srcset="https://nextgo.io/images/services-icons/databases.svg?auto=format&amp;fit=max&amp;w=96 1x, https://nextgo.io/images/services-icons/databases.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/databases.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Databases
+
+- <img alt="Solutions Architecture" srcset="https://nextgo.io/images/services-icons/solutions-architecture.svg?auto=format&amp;fit=max&amp;w=96 1x, https://nextgo.io/images/services-icons/solutions-architecture.svg?auto=format&amp;fit=max&amp;w=256 2x" src="https://nextgo.io/images/services-icons/solutions-architecture.svg?auto=format&amp;fit=max&amp;w=256" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Solutions Architecture
+
+- <img alt="Assessment and Planning" srcset="https://nextgo.io/images/services-icons/assessment-and-planning2.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/assessment-and-planning2.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/assessment-and-planning2.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Assessment and Planning
+
+- <img alt="Mobile App Development" srcset="https://nextgo.io/images/services-icons/mobile-app-development.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/mobile-app-development.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/mobile-app-development.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Mobile App Development
+
+- <img alt="Web Development" srcset="https://nextgo.io/images/services-icons/web-development.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/web-development.png?auto=format&amp;fit=max&amp;w=640 2x" src="https://nextgo.io/images/services-icons/web-development.png?auto=format&amp;fit=max&amp;w=640" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Web Development
+
+
+- <img alt="E-Commerce Integration &amp; Customizations Solutions" srcset="https://nextgo.io/images/services-icons/ecommerce-integration-and-customizations-solutions.png?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/ecommerce-integration-and-customizations-solutions.png?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/ecommerce-integration-and-customizations-solutions.png?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px;"> Design UX/UI
+
+
+
+
+
 
 
 
