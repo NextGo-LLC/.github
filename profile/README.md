@@ -18,7 +18,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Talking about Company Stuffs:
 
- - 👨‍💻 DevOps Consulting Services
+<div style = "background: white">
+<img alt="AWS DevOps Service" srcset="https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=256 1x, https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=384 2x" src="https://nextgo.io/images/services-icons/aws-devops-service.svg?auto=format&amp;fit=max&amp;w=384" decoding="async" data-nimg="intrinsic" class="primary icon" style=" width: 30px; background: white">
+</div>
+
+ - 👨‍💻 ![image](https://user-images.githubusercontent.com/9677961/178298036-c4545733-3fd8-4db2-bcaa-df52c630dcf3.png | width=100)AWS DevOps Service
 
 - 💻 On-Demand and Custom Software 
 
@@ -27,7 +31,15 @@ Talking about Company Stuffs:
 - 👨‍💻 Staff Augmentation
 
 
-## 🛠️ Skills
+## 🛠️ Services We Offer
+
+
+Backend as a Service (BaaS)
+
+
+![github](https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=Google&logoColor=white)
+![github](https://img.shields.io/badge/Aws-critical?style=for-the-badge&logo=Aws&logoColor=white)
+![github](https://img.shields.io/badge/Azure-blueviolet?style=for-the-badge&logo=Azure&logoColor=white)
 
 Languages
 
@@ -49,12 +61,6 @@ Front-End Development
 ![github](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux&logoColor=white)
 ![github](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
-Backend as a Service (BaaS)
-
-![github](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase&logoColor=yellow)
-![github](https://img.shields.io/badge/Aws-critical?style=for-the-badge&logo=Aws&logoColor=white)
-![github](https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=Heroku&logoColor=white)
-
 
 Databases
 
@@ -70,8 +76,9 @@ Block-Chain Development
 Technologies
 
 ![github](https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=Apache&logoColor=white)
-![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![github](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
+![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
+![github](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 <!--
 **eduardoweb/eduardoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
